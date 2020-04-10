@@ -19,6 +19,9 @@ PS8 lite: Random Forests
     source collaboration on GitHub works. Watch this [6min
     screencast](https://www.loom.com/share/88b00641608f49bab411d06903303355)
     to see how.
+3.  Remember: you work is not considered submitted until your pull
+    request shows up
+    [here](https://github.com/293-2020-01-Fall/PS8lite/pulls)
 
 ## Evaluation criteria
 

@@ -21,10 +21,10 @@ library(knitr)
 
 1. By **Friday 4/17 9pm Eastern** (note evening due time) you must submit all your work on GitHub.
 1. However instead of submiting work as you have been until now, we're going to practice the "GitHub Pull Request" flow. This is how open source collaboration on GitHub works. Watch this [6min screencast](https://www.loom.com/share/88b00641608f49bab411d06903303355) to see how.
+1. Remember: you work is not considered submitted until your pull request shows up [here](https://github.com/293-2020-01-Fall/PS8lite/pulls)
 
 
 ## Evaluation criteria
-
 
 1. **"If others can't reproduce your work, they will throw it in the trash."** Submissions that don't knit will be penalized harshly. 
 1. **"Presentation and communication-style matters."** Related to point above, for example
