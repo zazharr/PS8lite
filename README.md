@@ -16,12 +16,9 @@ PS8 lite: Random Forests
     submit all your work on GitHub.
 2.  However instead of submiting work as you have been until now, we’re
     going to practice the “GitHub Pull Request” flow. This is how open
-    source collaboration on GitHub works. Watch this 6min video to see
-    how:
-
-<iframe width="640" height="360" src="https://www.loom.com/embed/88b00641608f49bab411d06903303355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-
-</iframe>
+    source collaboration on GitHub works. Watch this [6min
+    screencast](https://www.loom.com/share/88b00641608f49bab411d06903303355)
+    to see how.
 
 ## Evaluation criteria
 
