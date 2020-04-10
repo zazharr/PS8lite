@@ -1,11 +1,6 @@
 PS8 lite: Random Forests
 ================
 
-## What’s due when?
-
-1.  By **Friday 4/17 9pm Eastern** (note evening due time) you must
-    submit all your work on GitHub.
-
 ## Your work
 
 1.  You will make one submission to Kaggle using Random Forests using
@@ -14,6 +9,14 @@ PS8 lite: Random Forests
     groups.
 3.  Also, to minimize cognitive load, you will use the same data and
     model formula as in PS7 on LASSO.
+
+## What’s due when?
+
+1.  By **Friday 4/17 9pm Eastern** (note evening due time) you must
+    submit all your work on GitHub.
+2.  However instead of submiting work as you have been until now, we’re
+    going to practice the “GitHub Pull Request” flow. This is how
+    crowd-sourced open source collaboration on GitHub works.
 
 ## Evaluation criteria
 
