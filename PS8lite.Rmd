@@ -1,5 +1,6 @@
 ---
 title: "Random Forests"
+author: "Zoya Azhar"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document: 
