@@ -188,6 +188,10 @@ MiscVal + MoSold + YrSold" %>%
 Fit one Random Forest model `model_rf` using any approach you want.
 
 ```{r}
+
+## Fitting Random Forest model directly
+
+
 # Fit random forest:
 model_rf <- randomForest(
   # Model formula
