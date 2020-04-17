@@ -190,7 +190,8 @@ Fit one Random Forest model `model_rf` using any approach you want.
 ```{r}
 
 ## Fitting Random Forest model directly
-
+# tried different values for mtry and ntree
+# the values I chose gave me a better error estimate than the one in sample code
 
 # Fit random forest:
 model_rf <- randomForest(
@@ -202,7 +203,7 @@ model_rf <- randomForest(
   # choose from for splitting:
   mtry = 2,
   # Number of bagged (bootstrap aggregated) trees in your forest:
-  ntree = 100 
+  ntree = 150 
 )
 ```
 
